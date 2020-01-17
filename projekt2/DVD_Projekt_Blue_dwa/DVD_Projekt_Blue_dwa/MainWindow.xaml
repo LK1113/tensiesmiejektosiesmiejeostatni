@@ -1,0 +1,20 @@
+﻿<Window x:Class="DVD_Projekt_Blue_dwa.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DVD_Projekt_Blue_dwa"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="Zlecenia" Content="Zlecenia" HorizontalAlignment="Left" Margin="644,105,0,0" VerticalAlignment="Top" RenderTransformOrigin="2.316,3.593" Click="Zlecenia_Click"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="728,120,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="Pracownicy" Content="Pracownicy" HorizontalAlignment="Left" Margin="644,67,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.708,0.399" Click="Pracownicy_Click"/>
+        <ComboBox HorizontalAlignment="Left" Margin="323,140,0,0" VerticalAlignment="Top" Width="120">
+            <Button/>
+            <Button Content="nohej"/>
+
+        </ComboBox>
+
+    </Grid>
+</Window>
