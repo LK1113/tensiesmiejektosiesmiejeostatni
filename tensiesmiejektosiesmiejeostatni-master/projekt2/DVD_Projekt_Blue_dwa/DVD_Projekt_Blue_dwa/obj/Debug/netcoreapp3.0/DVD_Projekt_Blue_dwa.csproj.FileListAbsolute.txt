@@ -1,0 +1,63 @@
+C:\Users\Marek\Desktop\projekt2\DVD_Projekt_Blue_dwa\DVD_Projekt_Blue_dwa\obj\Debug\netcoreapp3.0\DVD_Projekt_Blue_dwa.csprojAssemblyReference.cache
+C:\Users\Marek\Desktop\projekt2\DVD_Projekt_Blue_dwa\DVD_Projekt_Blue_dwa\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\Marek\Desktop\projekt2\DVD_Projekt_Blue_dwa\DVD_Projekt_Blue_dwa\obj\Debug\netcoreapp3.0\Window1.g.cs
+C:\Users\Marek\Desktop\projekt2\DVD_Projekt_Blue_dwa\DVD_Projekt_Blue_dwa\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\Marek\Desktop\projekt2\DVD_Projekt_Blue_dwa\DVD_Projekt_Blue_dwa\obj\Debug\netcoreapp3.0\DVD_Projekt_Blue_dwa_MarkupCompile.cache
+C:\Users\Marek\Desktop\projekt2\DVD_Projekt_Blue_dwa\DVD_Projekt_Blue_dwa\obj\Debug\netcoreapp3.0\DVD_Projekt_Blue_dwa_MarkupCompile.lref
+C:\Users\Marek\Desktop\projekt2\DVD_Projekt_Blue_dwa\DVD_Projekt_Blue_dwa\bin\Debug\netcoreapp3.0\DVD_Projekt_Blue_dwa.exe
+C:\Users\Marek\Desktop\projekt2\DVD_Projekt_Blue_dwa\DVD_Projekt_Blue_dwa\bin\Debug\netcoreapp3.0\DVD_Projekt_Blue_dwa.deps.json
+C:\Users\Marek\Desktop\projekt2\DVD_Projekt_Blue_dwa\DVD_Projekt_Blue_dwa\bin\Debug\netcoreapp3.0\DVD_Projekt_Blue_dwa.runtimeconfig.json
+C:\Users\Marek\Desktop\projekt2\DVD_Projekt_Blue_dwa\DVD_Projekt_Blue_dwa\bin\Debug\netcoreapp3.0\DVD_Projekt_Blue_dwa.runtimeconfig.dev.json
+C:\Users\Marek\Desktop\projekt2\DVD_Projekt_Blue_dwa\DVD_Projekt_Blue_dwa\bin\Debug\netcoreapp3.0\DVD_Projekt_Blue_dwa.dll
+C:\Users\Marek\Desktop\projekt2\DVD_Projekt_Blue_dwa\DVD_Projekt_Blue_dwa\bin\Debug\netcoreapp3.0\DVD_Projekt_Blue_dwa.pdb
+C:\Users\Marek\Desktop\projekt2\DVD_Projekt_Blue_dwa\DVD_Projekt_Blue_dwa\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Users\Marek\Desktop\projekt2\DVD_Projekt_Blue_dwa\DVD_Projekt_Blue_dwa\obj\Debug\netcoreapp3.0\Window1.baml
+C:\Users\Marek\Desktop\projekt2\DVD_Projekt_Blue_dwa\DVD_Projekt_Blue_dwa\obj\Debug\netcoreapp3.0\DVD_Projekt_Blue_dwa.g.resources
+C:\Users\Marek\Desktop\projekt2\DVD_Projekt_Blue_dwa\DVD_Projekt_Blue_dwa\obj\Debug\netcoreapp3.0\DVD_Projekt_Blue_dwa.AssemblyInfoInputs.cache
+C:\Users\Marek\Desktop\projekt2\DVD_Projekt_Blue_dwa\DVD_Projekt_Blue_dwa\obj\Debug\netcoreapp3.0\DVD_Projekt_Blue_dwa.AssemblyInfo.cs
+C:\Users\Marek\Desktop\projekt2\DVD_Projekt_Blue_dwa\DVD_Projekt_Blue_dwa\obj\Debug\netcoreapp3.0\DVD_Projekt_Blue_dwa.dll
+C:\Users\Marek\Desktop\projekt2\DVD_Projekt_Blue_dwa\DVD_Projekt_Blue_dwa\obj\Debug\netcoreapp3.0\DVD_Projekt_Blue_dwa.pdb
+C:\Users\Marek\Desktop\projekt2\DVD_Projekt_Blue_dwa\DVD_Projekt_Blue_dwa\obj\Debug\netcoreapp3.0\Okno_Zleceń.g.cs
+C:\Users\Marek\Desktop\projekt2\DVD_Projekt_Blue_dwa\DVD_Projekt_Blue_dwa\obj\Debug\netcoreapp3.0\Okno_Zleceń.baml
+D:\projekt2\DVD_Projekt_Blue_dwa\DVD_Projekt_Blue_dwa\bin\Debug\netcoreapp3.0\DVD_Projekt_Blue_dwa.exe
+D:\projekt2\DVD_Projekt_Blue_dwa\DVD_Projekt_Blue_dwa\bin\Debug\netcoreapp3.0\DVD_Projekt_Blue_dwa.deps.json
+D:\projekt2\DVD_Projekt_Blue_dwa\DVD_Projekt_Blue_dwa\bin\Debug\netcoreapp3.0\DVD_Projekt_Blue_dwa.runtimeconfig.json
+D:\projekt2\DVD_Projekt_Blue_dwa\DVD_Projekt_Blue_dwa\bin\Debug\netcoreapp3.0\DVD_Projekt_Blue_dwa.runtimeconfig.dev.json
+D:\projekt2\DVD_Projekt_Blue_dwa\DVD_Projekt_Blue_dwa\bin\Debug\netcoreapp3.0\DVD_Projekt_Blue_dwa.dll
+D:\projekt2\DVD_Projekt_Blue_dwa\DVD_Projekt_Blue_dwa\bin\Debug\netcoreapp3.0\DVD_Projekt_Blue_dwa.pdb
+D:\projekt2\DVD_Projekt_Blue_dwa\DVD_Projekt_Blue_dwa\obj\Debug\netcoreapp3.0\DVD_Projekt_Blue_dwa.csprojAssemblyReference.cache
+D:\projekt2\DVD_Projekt_Blue_dwa\DVD_Projekt_Blue_dwa\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+D:\projekt2\DVD_Projekt_Blue_dwa\DVD_Projekt_Blue_dwa\obj\Debug\netcoreapp3.0\Okno_Zleceń.g.cs
+D:\projekt2\DVD_Projekt_Blue_dwa\DVD_Projekt_Blue_dwa\obj\Debug\netcoreapp3.0\Window1.g.cs
+D:\projekt2\DVD_Projekt_Blue_dwa\DVD_Projekt_Blue_dwa\obj\Debug\netcoreapp3.0\App.g.cs
+D:\projekt2\DVD_Projekt_Blue_dwa\DVD_Projekt_Blue_dwa\obj\Debug\netcoreapp3.0\DVD_Projekt_Blue_dwa_MarkupCompile.cache
+D:\projekt2\DVD_Projekt_Blue_dwa\DVD_Projekt_Blue_dwa\obj\Debug\netcoreapp3.0\DVD_Projekt_Blue_dwa_MarkupCompile.lref
+D:\projekt2\DVD_Projekt_Blue_dwa\DVD_Projekt_Blue_dwa\obj\Debug\netcoreapp3.0\MainWindow.baml
+D:\projekt2\DVD_Projekt_Blue_dwa\DVD_Projekt_Blue_dwa\obj\Debug\netcoreapp3.0\Okno_Zleceń.baml
+D:\projekt2\DVD_Projekt_Blue_dwa\DVD_Projekt_Blue_dwa\obj\Debug\netcoreapp3.0\Window1.baml
+D:\projekt2\DVD_Projekt_Blue_dwa\DVD_Projekt_Blue_dwa\obj\Debug\netcoreapp3.0\DVD_Projekt_Blue_dwa.g.resources
+D:\projekt2\DVD_Projekt_Blue_dwa\DVD_Projekt_Blue_dwa\obj\Debug\netcoreapp3.0\DVD_Projekt_Blue_dwa.AssemblyInfoInputs.cache
+D:\projekt2\DVD_Projekt_Blue_dwa\DVD_Projekt_Blue_dwa\obj\Debug\netcoreapp3.0\DVD_Projekt_Blue_dwa.AssemblyInfo.cs
+D:\projekt2\DVD_Projekt_Blue_dwa\DVD_Projekt_Blue_dwa\obj\Debug\netcoreapp3.0\DVD_Projekt_Blue_dwa.dll
+D:\projekt2\DVD_Projekt_Blue_dwa\DVD_Projekt_Blue_dwa\obj\Debug\netcoreapp3.0\DVD_Projekt_Blue_dwa.pdb
+C:\Users\No Hej\Desktop\c#\tensiesmiejektosiesmiejeostatni-master\projekt2\DVD_Projekt_Blue_dwa\DVD_Projekt_Blue_dwa\bin\Debug\netcoreapp3.0\DVD_Projekt_Blue_dwa.exe
+C:\Users\No Hej\Desktop\c#\tensiesmiejektosiesmiejeostatni-master\projekt2\DVD_Projekt_Blue_dwa\DVD_Projekt_Blue_dwa\bin\Debug\netcoreapp3.0\DVD_Projekt_Blue_dwa.deps.json
+C:\Users\No Hej\Desktop\c#\tensiesmiejektosiesmiejeostatni-master\projekt2\DVD_Projekt_Blue_dwa\DVD_Projekt_Blue_dwa\bin\Debug\netcoreapp3.0\DVD_Projekt_Blue_dwa.runtimeconfig.json
+C:\Users\No Hej\Desktop\c#\tensiesmiejektosiesmiejeostatni-master\projekt2\DVD_Projekt_Blue_dwa\DVD_Projekt_Blue_dwa\bin\Debug\netcoreapp3.0\DVD_Projekt_Blue_dwa.runtimeconfig.dev.json
+C:\Users\No Hej\Desktop\c#\tensiesmiejektosiesmiejeostatni-master\projekt2\DVD_Projekt_Blue_dwa\DVD_Projekt_Blue_dwa\bin\Debug\netcoreapp3.0\DVD_Projekt_Blue_dwa.dll
+C:\Users\No Hej\Desktop\c#\tensiesmiejektosiesmiejeostatni-master\projekt2\DVD_Projekt_Blue_dwa\DVD_Projekt_Blue_dwa\bin\Debug\netcoreapp3.0\DVD_Projekt_Blue_dwa.pdb
+C:\Users\No Hej\Desktop\c#\tensiesmiejektosiesmiejeostatni-master\projekt2\DVD_Projekt_Blue_dwa\DVD_Projekt_Blue_dwa\obj\Debug\netcoreapp3.0\DVD_Projekt_Blue_dwa.csprojAssemblyReference.cache
+C:\Users\No Hej\Desktop\c#\tensiesmiejektosiesmiejeostatni-master\projekt2\DVD_Projekt_Blue_dwa\DVD_Projekt_Blue_dwa\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\No Hej\Desktop\c#\tensiesmiejektosiesmiejeostatni-master\projekt2\DVD_Projekt_Blue_dwa\DVD_Projekt_Blue_dwa\obj\Debug\netcoreapp3.0\Okno_Zleceń.g.cs
+C:\Users\No Hej\Desktop\c#\tensiesmiejektosiesmiejeostatni-master\projekt2\DVD_Projekt_Blue_dwa\DVD_Projekt_Blue_dwa\obj\Debug\netcoreapp3.0\Window1.g.cs
+C:\Users\No Hej\Desktop\c#\tensiesmiejektosiesmiejeostatni-master\projekt2\DVD_Projekt_Blue_dwa\DVD_Projekt_Blue_dwa\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\No Hej\Desktop\c#\tensiesmiejektosiesmiejeostatni-master\projekt2\DVD_Projekt_Blue_dwa\DVD_Projekt_Blue_dwa\obj\Debug\netcoreapp3.0\DVD_Projekt_Blue_dwa_MarkupCompile.cache
+C:\Users\No Hej\Desktop\c#\tensiesmiejektosiesmiejeostatni-master\projekt2\DVD_Projekt_Blue_dwa\DVD_Projekt_Blue_dwa\obj\Debug\netcoreapp3.0\DVD_Projekt_Blue_dwa_MarkupCompile.lref
+C:\Users\No Hej\Desktop\c#\tensiesmiejektosiesmiejeostatni-master\projekt2\DVD_Projekt_Blue_dwa\DVD_Projekt_Blue_dwa\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Users\No Hej\Desktop\c#\tensiesmiejektosiesmiejeostatni-master\projekt2\DVD_Projekt_Blue_dwa\DVD_Projekt_Blue_dwa\obj\Debug\netcoreapp3.0\Okno_Zleceń.baml
+C:\Users\No Hej\Desktop\c#\tensiesmiejektosiesmiejeostatni-master\projekt2\DVD_Projekt_Blue_dwa\DVD_Projekt_Blue_dwa\obj\Debug\netcoreapp3.0\Window1.baml
+C:\Users\No Hej\Desktop\c#\tensiesmiejektosiesmiejeostatni-master\projekt2\DVD_Projekt_Blue_dwa\DVD_Projekt_Blue_dwa\obj\Debug\netcoreapp3.0\DVD_Projekt_Blue_dwa.g.resources
+C:\Users\No Hej\Desktop\c#\tensiesmiejektosiesmiejeostatni-master\projekt2\DVD_Projekt_Blue_dwa\DVD_Projekt_Blue_dwa\obj\Debug\netcoreapp3.0\DVD_Projekt_Blue_dwa.AssemblyInfoInputs.cache
+C:\Users\No Hej\Desktop\c#\tensiesmiejektosiesmiejeostatni-master\projekt2\DVD_Projekt_Blue_dwa\DVD_Projekt_Blue_dwa\obj\Debug\netcoreapp3.0\DVD_Projekt_Blue_dwa.AssemblyInfo.cs
+C:\Users\No Hej\Desktop\c#\tensiesmiejektosiesmiejeostatni-master\projekt2\DVD_Projekt_Blue_dwa\DVD_Projekt_Blue_dwa\obj\Debug\netcoreapp3.0\DVD_Projekt_Blue_dwa.dll
+C:\Users\No Hej\Desktop\c#\tensiesmiejektosiesmiejeostatni-master\projekt2\DVD_Projekt_Blue_dwa\DVD_Projekt_Blue_dwa\obj\Debug\netcoreapp3.0\DVD_Projekt_Blue_dwa.pdb
