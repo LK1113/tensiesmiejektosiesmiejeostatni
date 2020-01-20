@@ -8,7 +8,7 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <Button x:Name="Zlecenia" Content="Zlecenia" HorizontalAlignment="Left" Margin="644,105,0,0" VerticalAlignment="Top" RenderTransformOrigin="2.316,3.593" Click="Zlecenia_Click"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="652,157,0,0" VerticalAlignment="Top"/>
+        <Button Content="Terminarz" HorizontalAlignment="Left" Margin="652,157,0,0" VerticalAlignment="Top" Click="Button_Click"/>
         <Button x:Name="blabla" Content="Pracownicy" HorizontalAlignment="Left" Margin="644,67,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.708,0.399" Click="Pracownicy_Click"/>
 
     </Grid>

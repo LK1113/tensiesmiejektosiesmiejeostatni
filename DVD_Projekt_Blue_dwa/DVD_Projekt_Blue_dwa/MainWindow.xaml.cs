@@ -55,5 +55,11 @@ namespace DVD_Projekt_Blue_dwa
             Okno_Zleceń objokno_Zleceń = new Okno_Zleceń();
             objokno_Zleceń.Show();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            Terminarz objTerminarz = new Terminarz();
+            objTerminarz.Show();
+        }
     }
 }

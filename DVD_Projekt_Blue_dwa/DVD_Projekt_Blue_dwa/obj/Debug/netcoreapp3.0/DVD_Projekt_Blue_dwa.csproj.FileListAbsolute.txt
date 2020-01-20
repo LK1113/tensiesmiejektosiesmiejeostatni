@@ -107,3 +107,5 @@ C:\Users\No Hej\Desktop\c#\DVD_Projekt_Blue_dwa\DVD_Projekt_Blue_dwa\bin\Debug\n
 C:\Users\No Hej\Desktop\c#\DVD_Projekt_Blue_dwa\DVD_Projekt_Blue_dwa\bin\Debug\netcoreapp3.0\Microsoft.Office.Tools.Common.dll
 C:\Users\No Hej\Desktop\c#\DVD_Projekt_Blue_dwa\DVD_Projekt_Blue_dwa\bin\Debug\netcoreapp3.0\Microsoft.Office.Tools.dll
 C:\Users\No Hej\Desktop\c#\DVD_Projekt_Blue_dwa\DVD_Projekt_Blue_dwa\obj\Debug\netcoreapp3.0\DVD_Projekt_Blue_dwa.csproj.CopyComplete
+C:\Users\No Hej\Desktop\c#\DVD_Projekt_Blue_dwa\DVD_Projekt_Blue_dwa\obj\Debug\netcoreapp3.0\Terminarz.g.cs
+C:\Users\No Hej\Desktop\c#\DVD_Projekt_Blue_dwa\DVD_Projekt_Blue_dwa\obj\Debug\netcoreapp3.0\Terminarz.baml
