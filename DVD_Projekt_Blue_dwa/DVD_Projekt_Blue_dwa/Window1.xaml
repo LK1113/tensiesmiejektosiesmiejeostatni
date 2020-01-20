@@ -1,0 +1,49 @@
+﻿<Window x:Class="DVD_Projekt_Blue_dwa.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DVD_Projekt_Blue_dwa"
+        mc:Ignorable="d"
+        Title="Window1" Height="450" Width="932">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="0*"/>
+        </Grid.ColumnDefinitions>
+        <TextBox x:Name="id_pracownika" HorizontalAlignment="Left" Margin="133,17,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="28" IsEnabled="False"/>
+        <TextBox x:Name="Imię" HorizontalAlignment="Left" Margin="133,40,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Height="18"/>
+        <TextBox x:Name="Nazwisko" HorizontalAlignment="Left" Margin="133,80,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Height="18"/>
+        <TextBox x:Name="Nickname" HorizontalAlignment="Left" Margin="133,120,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Height="18"/>
+        <TextBox x:Name="Mail" HorizontalAlignment="Left" Margin="133,199,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Height="18"/>
+        <TextBox x:Name="Telefon" HorizontalAlignment="Left" Margin="133,247,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Height="18"/>
+        <Label Content="Imię" HorizontalAlignment="Left" Margin="58,36,0,0" VerticalAlignment="Top" Height="26" Width="33"/>
+        <Label Content="Nazwisko" HorizontalAlignment="Left" Margin="58,80,0,0" VerticalAlignment="Top" Height="26" Width="60"/>
+        <Label Content="Nickname" HorizontalAlignment="Left" Margin="58,120,0,0" VerticalAlignment="Top" Height="26" Width="63"/>
+        <Label Content="E-mail" HorizontalAlignment="Left" Margin="61,195,0,0" VerticalAlignment="Top" Height="26" Width="44"/>
+        <Label Content="Telefon" HorizontalAlignment="Left" Margin="66,243,0,0" VerticalAlignment="Top" Height="26" Width="48" RenderTransformOrigin="0.526,0.569"/>
+        <Button x:Name="Dodaj" Content="Dodaj" HorizontalAlignment="Left" Margin="159,290,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.057,-1.825" Click="Dodaj_Click" Height="20" Width="36"/>
+        <Button x:Name="Odśwież" Content="Odśwież" HorizontalAlignment="Left" Margin="559,300,0,0" VerticalAlignment="Top" Click="Odśwież_Click" Height="20" Width="48"/>
+        <ComboBox x:Name="Dywizja" HorizontalAlignment="Left" Margin="133,158,0,0" VerticalAlignment="Top" Width="120">
+            <ComboBoxItem Content="Żelazo" IsEnabled="False" FontStretch="Medium"/>
+            <ComboBoxItem Content="Brąz" IsEnabled="False" FontWeight="Bold"/>
+            <ComboBoxItem Content="Srebro" IsEnabled="False" FontWeight="Bold"/>
+            <ComboBoxItem Content="Złoto" IsEnabled="False" FontWeight="Bold"/>
+            <ComboBoxItem Content="Platyna" IsEnabled="False" FontWeight="Bold"/>
+            <ComboBoxItem Content="Diament" IsEnabled="False" FontWeight="Bold"/>
+            <ComboBoxItem Content="Mistrz" FontWeight="Bold"/>
+            <ComboBoxItem Content="Arcymistrz" FontWeight="Bold"/>
+            <ComboBoxItem Content="Pretendent" FontWeight="Bold"/>
+        </ComboBox>
+        <Label Content="Dywizja" HorizontalAlignment="Left" Margin="58,156,0,0" VerticalAlignment="Top"/>
+        <ScrollViewer VerticalScrollBarVisibility="Auto"
+                 Height="202"
+                 Width="632" 
+                 HorizontalScrollBarVisibility="Disabled" Margin="267,57,33,175" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" VerticalAlignment="Bottom" HorizontalAlignment="Center">
+            <TextBlock x:Name="Wyświetlenie_pracowników" Margin="10,20,10,10" TextWrapping="Wrap" Width="632" />
+        </ScrollViewer>
+        <Label Content="Lista pracowników" HorizontalAlignment="Left" Margin="313,26,0,0" VerticalAlignment="Top"/>
+        <Label Content="id" HorizontalAlignment="Left" Margin="94,13,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

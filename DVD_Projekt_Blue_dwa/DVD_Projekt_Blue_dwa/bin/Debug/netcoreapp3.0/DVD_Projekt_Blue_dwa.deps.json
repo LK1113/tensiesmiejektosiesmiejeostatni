@@ -1,0 +1,65 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "DVD_Projekt_Blue_dwa/1.0.0": {
+        "dependencies": {
+          "Microsoft.Office.Tools.Excel": "10.0.0.0"
+        },
+        "runtime": {
+          "DVD_Projekt_Blue_dwa.dll": {}
+        }
+      },
+      "Microsoft.Office.Tools.Excel/10.0.0.0": {
+        "runtime": {
+          "Microsoft.Office.Tools.Excel.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.50903.0"
+          }
+        }
+      },
+      "Microsoft.Office.Tools.Common/10.0.0.0": {
+        "runtime": {
+          "Microsoft.Office.Tools.Common.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.50903.0"
+          }
+        }
+      },
+      "Microsoft.Office.Tools/10.0.0.0": {
+        "runtime": {
+          "Microsoft.Office.Tools.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.50903.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DVD_Projekt_Blue_dwa/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Office.Tools.Excel/10.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Office.Tools.Common/10.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Office.Tools/10.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
